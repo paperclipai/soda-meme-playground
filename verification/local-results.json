@@ -1,0 +1,30 @@
+{
+  "url": "http://127.0.0.1:4173",
+  "testedAt": "2026-11-09T21:32:54.556Z",
+  "results": [
+    {
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "checks": "20 images load; no horizontal overflow; scrolling; topic filters; shuffle order; likes survive reload; saved filter; editable caption; preset remix; downloaded valid PNG; Escape closes dialog; empty likes state",
+      "status": "passed"
+    },
+    {
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "checks": "20 images load; no horizontal overflow; scrolling; topic filters; shuffle order; likes survive reload; saved filter; editable caption; preset remix; downloaded valid PNG; Escape closes dialog; empty likes state",
+      "status": "passed"
+    },
+    {
+      "viewport": {
+        "width": 320,
+        "height": 740
+      },
+      "checks": "20 images load; no horizontal overflow; scrolling; topic filters; shuffle order; likes survive reload; saved filter; editable caption; preset remix; downloaded valid PNG; Escape closes dialog; empty likes state",
+      "status": "passed"
+    }
+  ]
+}
